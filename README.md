@@ -16,6 +16,7 @@ To run the code please download the Cap_Project.ipynb file and upload to the col
 If the access to the shared folder does not work, replace the cell that contains the below code:
 
 ///////////////////////////////////////////////////////////
+
 resid1 = '86516661A665CDF3%2157880'
 authkey = '%21AEKz7uhL6B7MUFg'
 url1_excel = ('https://onedrive.live.com/download?'
@@ -24,6 +25,7 @@ url1_excel = ('https://onedrive.live.com/download?'
               + '&em=2&app=Excel')
 
 UK_HPI = pd.read_excel(url1_excel)
+
 ///////////////////////////////////////////////////////////
 
 With:
