@@ -31,8 +31,10 @@ UK_HPI = pd.read_excel(url1_excel)
 With:
 
 //////////////////////////////////////////////////////////
+
 from google.colab import files
 uploaded = files.upload()
 
 UK_HPI = pd.read_csv('UK_Housing_Property_Index.csv')
+
 /////////////////////////////////////////////////////////
