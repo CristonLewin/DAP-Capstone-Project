@@ -13,7 +13,7 @@ To run the code please download the Cap_Project.ipynb file and upload to the col
 
 # Importing dataset (if necessary)
 
-If the access to the shared folder does not work, replace the cell that contains the below code:
+If the access to the shared folder does not work, replace the cell that contains the below code and contact cristonlewin@yahoo.com to request the dataset as we are not able to upload it here because of size limits:
 
 ///////////////////////////////////////////////////////////
 
